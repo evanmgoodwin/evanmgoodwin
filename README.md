@@ -1,6 +1,6 @@
 ## Evan McGee Goodwin | Data Analyst
 
-# Welcome to my github!
+### Welcome to my github!
 
 Thank you visiting my portoflio. Please see below for featured projects I have worked, or fee free to browse my repositories.
 
