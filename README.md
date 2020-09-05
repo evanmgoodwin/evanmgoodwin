@@ -1,5 +1,11 @@
 ## Evan McGee Goodwin | Data Analyst
 
+# Welcome to my github!
+
+Thank you visiting my portoflio. Please see below for featured projects I have worked, or fee free to browse my repositories.
+
+
+
 <!--
 **evanmgoodwin/evanmgoodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
