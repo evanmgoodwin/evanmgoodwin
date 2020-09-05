@@ -2,7 +2,9 @@
 
 ### Welcome to my github!
 
-Thank you visiting my portoflio. Please see below for featured projects I have worked, or fee free to browse my repositories.
+Thank you visiting my portoflio. Please see below for featured projects I have worked on, or feel free to browse my repositories.
+
+[I'm an inline-style link](https://www.google.com)
 
 
 
