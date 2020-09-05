@@ -1,6 +1,4 @@
-## Evan McGee Goodwin
-### Workforce RTA Specialist
-### Bay Alarm
+## Evan McGee Goodwin | Data Analyst
 
 <!--
 **evanmgoodwin/evanmgoodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
