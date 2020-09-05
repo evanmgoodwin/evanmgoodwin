@@ -14,6 +14,9 @@ Thank you visiting my portoflio. Please see below for featured projects I have w
 
 [Mapping Earthquakes with JavaScript](https://github.com/evanmgoodwin/Mapping_Earthquakes)
 
+[Ride-Share Analysis](google.com)
+![](ride.png)
+
 
 
 <!--
