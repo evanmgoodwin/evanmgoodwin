@@ -1,4 +1,4 @@
-## Evan McGee Goodwin | Data Analyst
+## Evan McGee Goodwin | Data Analyst/Budding Developer
 
 ### Welcome to my github!
 
